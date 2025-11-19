@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.wgu.edu/blog/2023/02/top-tips-prepare-network-engineering-job/_jcr_content/root/container/imageandtext.coreimg.85.800.jpeg/1730779199403/field-engineer.jpeg"  />
+  <img height="350" src="https://www.wgu.edu/blog/2023/02/top-tips-prepare-network-engineering-job/_jcr_content/root/container/imageandtext.coreimg.85.800.jpeg/1730779199403/field-engineer.jpeg"  />
 </div>
 
 ###
