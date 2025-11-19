@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Shifatur Rahmna</h1>
+<h1 align="center">Hi 👋, I'm Shifatur Rahman</h1>
 <h3 align="center">A passionate Network Engineer</h3>
 
 - 🔭 I’m currently working on [IT Executive](at Betopia)
