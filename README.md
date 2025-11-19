@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shifaturbdcalling@gmail.com**
 
-- 🌱 I’m currently learning **Advance Netwotking, Server System**
+- 🌱 I’m currently learning **Advance Networking, Server System**
 
 - Know about my experiences **MTCNA , MTCRE , CCNA**
 
